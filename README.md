@@ -1,7 +1,4 @@
-## Hi there 👋 ... 🌱 I am currently learning Full-Stack Development through Zero-To-Mastery. If you want to learn too, please use my affiliate link > https://academy.zerotomastery.io/a/aff_xzw29mh1/external?affcode=441520_hpzbv2qd  By using my affiliate link I earn a small commision which helps me pay for my lessons.
-👯 I’m looking to collaborate on some Apps and games for Motocross Athletes... 
-AND ... a gold backed cryptocurrency for an Ethical Art AI that asks for consent, gives credit and compensates artist with crypto for each image generated which will be ran by a DAO.
- 📫 How to reach me: AutumnFawcett@gmail.com
+## Hi there 👋 ... 🌱 I am currently learning Full-Stack Development through Zero-To-Mastery. 
 
 <!--
 **AutumnFawcett/AutumnFawcett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

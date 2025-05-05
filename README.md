@@ -1,7 +1,7 @@
 ## Hi there 👋 ... I'm "Mrs. Roboto" A.K.A Autumn Fawcett 
 
 
-🌱 I am currently learning Full-Stack Dev, Blockchain Dev, Mobile App Dev, AI Dev, Game Dev, UX/UI Design & Ethical Hacking through [Zero-To-Mastery](https://academy.zerotomastery.io/a/aff_xzw29mh1/external?affcode=441520_hpzbv2qd). 
+🌱 I am currently learning Full-Stack Dev, Blockchain Dev, Mobile App Dev, AI Dev, Game Dev, UX/UI Design & Ethical Hacking through [Zero-To-Mastery](https://academy.zerotomastery.io/a/aff_xzw29mh1/external?affcode=441520_hpzbv2qd). 😅 I know! That's a lot...but I have some BIG ideas!
 
 🔭 I’m currently working on building my own tech business "Mrs. Roboto Labs" complete with a mobile office and Starlink set up.
 

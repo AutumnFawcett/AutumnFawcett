@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on building my own tech business "Mrs. Roboto Labs" complete with a mobile office and Starlink set up.
 
-👯 I’m looking to collaborate on a cool mobile app hybrid dApp for the Motocross Industry & Ethical AI art/social media app ran by a DAO.
+👯 I’m looking to collaborate on a mobile app hybrid for the Motocross Industry & Ethical AI art/social media app ran by a DAO.
 
 <!--
 **AutumnFawcett/AutumnFawcett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,6 +4,8 @@
 🌱 I am currently learning Full-Stack Dev, Blockchain Dev, Mobile App Dev, AI Dev, Game Dev, UX/UI Design & Ethical Hacking through [Zero-To-Mastery](https://academy.zerotomastery.io/a/aff_xzw29mh1/external?affcode=441520_hpzbv2qd). 
 
 👯 I’m looking to collaborate on a cool mobile app hybrid dApp for the Motocross Industry & Ethical AI art/social media app ran by a DAO.
+
+🔭 I’m currently working on building my own Tech business "Mrs. Roboto Labs" and I have lots a cool ideas!
 <!--
 **AutumnFawcett/AutumnFawcett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

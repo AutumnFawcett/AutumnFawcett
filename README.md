@@ -1,7 +1,7 @@
 ## Hi there 👋 ... I'm "Mrs. Roboto" A.K.A Autumn Fawcett 
 
 
-🌱 I am currently learning Full-Stack Dev, Blockchain Dev, Mobile App Dev, AI Dev, Game Dev, UX/UI Design & Ethical Hacking through [Zero-To-Mastery] ([https://zerotomastery.io/career-paths/](https://academy.zerotomastery.io/a/aff_xzw29mh1/external?affcode=441520_hpzbv2qd)). 
+🌱 I am currently learning Full-Stack Dev, Blockchain Dev, Mobile App Dev, AI Dev, Game Dev, UX/UI Design & Ethical Hacking through [Zero-To-Mastery]([https://zerotomastery.io/career-paths/](https://academy.zerotomastery.io/a/aff_xzw29mh1/external?affcode=441520_hpzbv2qd)). 
 <!--
 **AutumnFawcett/AutumnFawcett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
